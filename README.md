@@ -12,8 +12,7 @@ nisa@nisa-VirtualBox:~ mkdir Project_File_Management
 ```
 ### Berikut contoh perintah Berpindah Direktori ke Project_File_Management dan Membuat folder document images archives logs:
 [Deskripsi gambar]
-(https://drive.google.com/file/d/1DDWgvhBxUNTyGFEezjfUD7vHsP9RmIKo/view?usp=sharing)
-
+(https://drive.google.com/file/d/1fnjoA2EixPav-WfM_OlzcNY5IZCIyBTA/view?usp=sharing)
 ```
 cd Project_File_Management
 ```
