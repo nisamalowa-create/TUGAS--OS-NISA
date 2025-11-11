@@ -22,7 +22,7 @@ mkdir document images archives logs
 
 ### Berikut contoh perintah membuat 20 file sample:
 [Deskripsi gambar]
-(https://drive.google.com/file/d/1Im_pQbvOmzU6o5ygdg1JaB2ZJ_dgs_gs/view?usp=sharing)
+(https://drive.google.com/file/d/1rO4mimad-PZlf7WE0TtJwhH1x3ORpoQW/view?usp=sharing)
 
 ```
 touch file{1..10}.txt file{11..15}.jpg file{16..18}.pdf file{19..20}.log
