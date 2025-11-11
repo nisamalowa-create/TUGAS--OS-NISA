@@ -157,14 +157,13 @@ Penjelasan:
 nano report.sh
 ```
 [Deskripsi gambar]
-(https://drive.google.com/file/d/1F143nEPQx7iqBQJIUdSG50mrzrXfdqIi/view?usp=sharing)
-```
+(https://drive.google.com/file/d/1bCBUD7uSAvUQi-nrB_wpMgMHd-7gh4Nf/view?usp=sharing)
 #!/bin/bash
 # Script: generate_report.sh
 # Fungsi: Membuat laporan statistik file sistem
 
 cd ~/project_file_management
-
+```
 echo "=== LAPORAN FILE SISTEM ===" > report.txt
 echo "Tanggal: $(date)" >> report.txt
 echo "" >> report.txt
