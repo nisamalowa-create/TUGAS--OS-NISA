@@ -29,7 +29,7 @@ touch file{1..10}.txt file{11..15}.jpg file{16..18}.pdf file{19..20}.log
 ```
 ### Berikut contoh perintah memasukan sebuah teks ke masing masing file yang berbeda:
 [Deskripsi gambar]
-(https://drive.google.com/file/d/1Vc3sH__-GRKcUa8B3GqEuPG0NFIvnEoQ/view?usp=sharing)
+(https://drive.google.com/file/d/1sJWB2kSIo7YsK6DV-W9AaBetDEUssuUl/view?usp=sharing)
 
 ```
  echo "Ini adalah dokumen contoh" > file1.txt
