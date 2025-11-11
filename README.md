@@ -3,7 +3,7 @@ Project Based Learing 1
 ## LANGKAH 1 BUAT STRUKTUR DIREKTORI
 ### Berikut contoh Membuat Direkoti Project_File_Management:
 [Deskripsi gambar]
-([https://drive.google.com/file/d/1VrifpuUz2Jp4Wfr1SlaVp5pgvdoRKswu/view?usp=sharing](https://drive.google.com/file/d/1NFm5gRYZtmPF2iRa2RVX4p9paGB-zGzz/view?usp=sharing))
+(https://drive.google.com/file/d/1NFm5gRYZtmPF2iRa2RVX4p9paGB-zGzz/view?usp=sharing)
 
 ```
 nisa@nisa-VirtualBox:~ mkdir Project_File_Management
