@@ -98,8 +98,7 @@ Penjelasan:
 nano search_file.sh
 ```
 [Deskripsi gambar]
-(https://drive.google.com/file/d/11KP1W8-jfZsyK_wDd6aTQVj5xc_NzJAD/view?usp=sharing)
-
+(https://drive.google.com/file/d/1RFoLBIJGjV1w08ZkN2xqYHZ357L4mHlX/view?usp=sharing)
 ```
  #!/bin/bash
 # Script: search_files.sh
