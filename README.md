@@ -56,7 +56,7 @@ nano organisasi_file.sh
 ### ISI SCRIPT
 [Deskripsi gambar]
 
-(https://drive.google.com/file/d/1DwRIHzH-5jURXFBeDsO0hdLD_nOSd8ix/view?usp=sharing)
+(https://drive.google.com/file/d/1knzzxqYq37f8OqhsI6C3X4y0OvpA_DmR/view?usp=sharing)
 
 ```
 #!/bin/bash
